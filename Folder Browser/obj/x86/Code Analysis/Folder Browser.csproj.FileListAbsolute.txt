@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Folder Browser\bin\x86\Code Analysis\Folder Browser.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Folder Browser\obj\x86\Code Analysis\Folder Browser.exe

@@ -1,0 +1,12 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\Debug\Images\Firestorm.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\Debug\Images\TextFile.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\Debug\Images\UltraDeep.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\Debug\Images\PhilcUK.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\Debug\Images\HST-SM4.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\Debug\Images\Horsehead.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\Debug\Images\Hubble.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\Debug\Images\Tarantula.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\obj\x86\Debug\ExceptionHandling.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\obj\x86\Debug\ExceptionHandling.pdb

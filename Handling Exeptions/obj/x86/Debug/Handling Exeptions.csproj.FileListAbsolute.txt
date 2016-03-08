@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Handling Exeptions\bin\Debug\Handling Exeptions.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Handling Exeptions\bin\Debug\Handling Exeptions.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Handling Exeptions\obj\x86\Debug\Handling Exeptions.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Handling Exeptions\obj\x86\Debug\Handling Exeptions.pdb

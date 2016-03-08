@@ -1,0 +1,4 @@
+c:\users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\String Formatting\bin\Debug\String Formatting.exe
+c:\users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\String Formatting\bin\Debug\String Formatting.pdb
+c:\users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\String Formatting\obj\x86\Debug\String Formatting.exe
+c:\users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\String Formatting\obj\x86\Debug\String Formatting.pdb

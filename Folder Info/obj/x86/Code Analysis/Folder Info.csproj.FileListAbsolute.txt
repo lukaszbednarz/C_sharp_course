@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Folder Info\bin\x86\Code Analysis\Folder Info.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Folder Info\obj\x86\Code Analysis\Folder Info.exe

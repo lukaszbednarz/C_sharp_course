@@ -1,0 +1,6 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\02_Practice_using_LINQ_to_XML\bin\Debug\hamlet.xml
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\02_Practice_using_LINQ_to_XML\bin\Debug\hamlet2.xml
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\02_Practice_using_LINQ_to_XML\bin\Debug\02_Practice_using_LINQ_to_XML.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\02_Practice_using_LINQ_to_XML\bin\Debug\02_Practice_using_LINQ_to_XML.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\02_Practice_using_LINQ_to_XML\obj\x86\Debug\02_Practice_using_LINQ_to_XML.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\02_Practice_using_LINQ_to_XML\obj\x86\Debug\02_Practice_using_LINQ_to_XML.pdb

@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Books Collection\bin\x86\Code Analysis\BooksCollection.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Books Collection\obj\x86\Code Analysis\BooksCollection.exe

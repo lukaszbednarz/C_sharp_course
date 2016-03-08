@@ -1,0 +1,5 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Today In History\bin\Debug\Today In History.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Today In History\bin\Debug\Today In History.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Today In History\bin\Debug\TodayInHistoryLib.dll
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Today In History\obj\x86\Debug\Today In History.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Today In History\obj\x86\Debug\Today In History.pdb

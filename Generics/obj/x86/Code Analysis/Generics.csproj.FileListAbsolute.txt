@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Generics\bin\x86\Code Analysis\Generics.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Generics\obj\x86\Code Analysis\Generics.exe

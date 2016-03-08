@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Rainbow Line\bin\Debug\Rainbow Line.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Rainbow Line\bin\Debug\Rainbow Line.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Rainbow Line\obj\x86\Debug\Rainbow Line.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Rainbow Line\obj\x86\Debug\Rainbow Line.pdb

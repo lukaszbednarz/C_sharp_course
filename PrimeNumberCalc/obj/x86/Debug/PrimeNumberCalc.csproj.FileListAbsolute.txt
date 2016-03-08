@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\PrimeNumberCalc\bin\Debug\PrimeNumberCalc.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\PrimeNumberCalc\bin\Debug\PrimeNumberCalc.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\PrimeNumberCalc\obj\x86\Debug\PrimeNumberCalc.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\PrimeNumberCalc\obj\x86\Debug\PrimeNumberCalc.pdb

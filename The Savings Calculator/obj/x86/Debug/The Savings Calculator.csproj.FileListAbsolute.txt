@@ -1,0 +1,6 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\The Savings Calculator\bin\Debug\The Savings Calculator.exe.config
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\The Savings Calculator\bin\Debug\The Savings Calculator.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\The Savings Calculator\bin\Debug\The Savings Calculator.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\The Savings Calculator\obj\x86\Debug\The Savings Calculator.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\The Savings Calculator\obj\x86\Debug\The Savings Calculator.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\The Savings Calculator\bin\Debug\SavingsLib.dll

@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Generics\bin\Debug\Generics.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Generics\bin\Debug\Generics.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Generics\obj\x86\Debug\Generics.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Generics\obj\x86\Debug\Generics.pdb

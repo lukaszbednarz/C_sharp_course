@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions\bin\Release\Lambda Expressions.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions\bin\Release\Lambda Expressions.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions\obj\x86\Release\Lambda Expressions.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions\obj\x86\Release\Lambda Expressions.pdb

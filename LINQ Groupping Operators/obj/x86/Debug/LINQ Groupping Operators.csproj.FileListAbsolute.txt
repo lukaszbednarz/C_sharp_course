@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Groupping Operators\bin\Debug\LINQ Groupping Operators.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Groupping Operators\bin\Debug\LINQ Groupping Operators.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Groupping Operators\obj\x86\Debug\LINQ Groupping Operators.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Groupping Operators\obj\x86\Debug\LINQ Groupping Operators.pdb

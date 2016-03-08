@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Bank Accounts\bin\Debug\Bank Accounts.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Bank Accounts\bin\Debug\Bank Accounts.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Bank Accounts\obj\x86\Debug\Bank Accounts.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Bank Accounts\obj\x86\Debug\Bank Accounts.pdb

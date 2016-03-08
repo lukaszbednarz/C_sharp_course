@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\All methods unsubscribed\bin\Debug\All methods unsubscribed.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\All methods unsubscribed\bin\Debug\All methods unsubscribed.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\All methods unsubscribed\obj\x86\Debug\All methods unsubscribed.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\All methods unsubscribed\obj\x86\Debug\All methods unsubscribed.pdb

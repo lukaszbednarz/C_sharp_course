@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsLibrary\bin\Code Analysis\GpsLibrary.dll
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsLibrary\obj\Code Analysis\GpsLibrary.dll

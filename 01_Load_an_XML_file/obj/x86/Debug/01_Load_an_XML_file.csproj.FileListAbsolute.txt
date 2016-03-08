@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\01_Load_an_XML_file\bin\Debug\01_Load_an_XML_file.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\01_Load_an_XML_file\bin\Debug\01_Load_an_XML_file.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\01_Load_an_XML_file\obj\x86\Debug\01_Load_an_XML_file.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\01_Load_an_XML_file\obj\x86\Debug\01_Load_an_XML_file.pdb

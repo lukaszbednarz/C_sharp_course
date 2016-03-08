@@ -1,0 +1,5 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\ClassLibrary\obj\Debug\ClassLibrary.pdb

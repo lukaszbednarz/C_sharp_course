@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Write a Generic Class\bin\Debug\Write a Generic Class.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Write a Generic Class\bin\Debug\Write a Generic Class.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Write a Generic Class\obj\x86\Debug\Write a Generic Class.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Write a Generic Class\obj\x86\Debug\Write a Generic Class.pdb

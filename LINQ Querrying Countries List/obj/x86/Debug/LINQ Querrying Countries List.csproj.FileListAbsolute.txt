@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Querrying Countries List\bin\Debug\LINQ Querrying Countries List.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Querrying Countries List\bin\Debug\LINQ Querrying Countries List.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Querrying Countries List\obj\x86\Debug\LINQ Querrying Countries List.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Querrying Countries List\obj\x86\Debug\LINQ Querrying Countries List.pdb

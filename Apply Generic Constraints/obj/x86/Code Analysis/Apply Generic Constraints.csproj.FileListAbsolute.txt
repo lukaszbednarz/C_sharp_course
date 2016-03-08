@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Apply Generic Constraints\bin\x86\Code Analysis\Apply Generic Constraints.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Apply Generic Constraints\obj\x86\Code Analysis\Apply Generic Constraints.exe

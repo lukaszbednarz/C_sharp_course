@@ -1,0 +1,7 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\bin\Debug\GpsConsoleApp.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\bin\Debug\GpsConsoleApp.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\bin\Debug\GpsLibrary.dll
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\bin\Debug\GpsLibrary.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\obj\x86\Debug\GpsConsoleApp.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\obj\x86\Debug\GpsConsoleApp.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\obj\x86\Debug\GpsConsoleApp.csprojResolveAssemblyReference.cache

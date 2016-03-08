@@ -1,0 +1,11 @@
+C:\Users\Wallace\Projects\LearningLineEditorial\Content\dotNET\Essentials\Libraries\before\Libraries\bin\Debug\Executable.exe
+C:\Users\Wallace\Projects\LearningLineEditorial\Content\dotNET\Essentials\Libraries\before\Libraries\bin\Debug\Executable.pdb
+C:\Users\Wallace\Projects\LearningLineEditorial\Content\dotNET\Essentials\Libraries\before\Libraries\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wallace\Projects\LearningLineEditorial\Content\dotNET\Essentials\Libraries\before\Libraries\obj\x86\Debug\Executable.exe
+C:\Users\Wallace\Projects\LearningLineEditorial\Content\dotNET\Essentials\Libraries\before\Libraries\obj\x86\Debug\Executable.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Libraries\obj\x86\Debug\Executable.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Libraries\obj\x86\Debug\Executable.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Libraries\bin\Debug\Executable.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Libraries\bin\Debug\Executable.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Libraries\bin\Debug\ClassLibrary.dll
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Libraries\bin\Debug\ClassLibrary.pdb

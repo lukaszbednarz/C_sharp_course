@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Numbers Formatting\bin\x86\Code Analysis\Numbers Formatting.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Numbers Formatting\obj\x86\Code Analysis\Numbers Formatting.exe

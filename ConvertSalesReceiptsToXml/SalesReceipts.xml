@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<receipts xmlns="urn:learning-line:practice">
+  <receipt id="6871">
+    <date>9/14/1994 12:00:00 AM</date>
+    <quantity>5</quantity>
+    <description>The Busy Executive's Database Guide</description>
+  </receipt>
+  <receipt id="423LL930">
+    <date>9/14/1994 12:00:00 AM</date>
+    <quantity>10</quantity>
+    <description>The Busy Executive's Database Guide</description>
+  </receipt>
+  <receipt id="P723">
+    <date>3/11/1993 12:00:00 AM</date>
+    <quantity>25</quantity>
+    <description>Cooking with Computers: Surreptitious Balance Sheets</description>
+  </receipt>
+  <receipt id="X999">
+    <date>2/21/1993 12:00:00 AM</date>
+    <quantity>35</quantity>
+    <description>You Can Combat Computer Stress!</description>
+  </receipt>
+  <receipt id="QQ2299">
+    <date>10/28/1993 12:00:00 AM</date>
+    <quantity>15</quantity>
+    <description>Straight Talk About Computers</description>
+  </receipt>
+  <receipt id="TQ456">
+    <date>12/12/1993 12:00:00 AM</date>
+    <quantity>10</quantity>
+    <description>Silicon Valley Gastronomic Treats</description>
+  </receipt>
+  <receipt id="N914014">
+    <date>9/14/1994 12:00:00 AM</date>
+    <quantity>25</quantity>
+    <description>The Gourmet Microwave</description>
+  </receipt>
+  <receipt id="423LL922">
+    <date>9/14/1994 12:00:00 AM</date>
+    <quantity>15</quantity>
+    <description>The Gourmet Microwave</description>
+  </receipt>
+  <receipt id="QA879.1">
+    <date>5/22/1993 12:00:00 AM</date>
+    <quantity>30</quantity>
+    <description>But Is It User Friendly?</description>
+  </receipt>
+  <receipt id="A2976">
+    <date>5/24/1993 12:00:00 AM</date>
+    <quantity>50</quantity>
+    <description>Secrets of Silicon Valley</description>
+  </receipt>
+  <receipt id="P3087a">
+    <date>5/29/1993 12:00:00 AM</date>
+    <quantity>20</quantity>
+    <description>Computer Phobic AND Non-Phobic Individuals: Behavior Variations</description>
+  </receipt>
+  <receipt id="722a">
+    <date>9/13/1994 12:00:00 AM</date>
+    <quantity>3</quantity>
+    <description>Is Anger the Enemy?</description>
+  </receipt>
+  <receipt id="QA7442.3">
+    <date>9/13/1994 12:00:00 AM</date>
+    <quantity>75</quantity>
+    <description>Is Anger the Enemy?</description>
+  </receipt>
+  <receipt id="D4482">
+    <date>9/14/1994 12:00:00 AM</date>
+    <quantity>10</quantity>
+    <description>Is Anger the Enemy?</description>
+  </receipt>
+  <receipt id="N914008">
+    <date>9/14/1994 12:00:00 AM</date>
+    <quantity>20</quantity>
+    <description>Is Anger the Enemy?</description>
+  </receipt>
+  <receipt id="P3087a">
+    <date>5/29/1993 12:00:00 AM</date>
+    <quantity>25</quantity>
+    <description>Life Without Fear</description>
+  </receipt>
+  <receipt id="P3087a">
+    <date>5/29/1993 12:00:00 AM</date>
+    <quantity>15</quantity>
+    <description>Prolonged Data Deprivation: Four Case Studies</description>
+  </receipt>
+  <receipt id="P3087a">
+    <date>5/29/1993 12:00:00 AM</date>
+    <quantity>25</quantity>
+    <description>Emotional Security: A New Algorithm</description>
+  </receipt>
+  <receipt id="P2121">
+    <date>6/15/1992 12:00:00 AM</date>
+    <quantity>40</quantity>
+    <description>Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean</description>
+  </receipt>
+  <receipt id="P2121">
+    <date>6/15/1992 12:00:00 AM</date>
+    <quantity>20</quantity>
+    <description>Fifty Years in Buckingham Palace Kitchens</description>
+  </receipt>
+  <receipt id="P2121">
+    <date>6/15/1992 12:00:00 AM</date>
+    <quantity>20</quantity>
+    <description>Sushi, Anyone?</description>
+  </receipt>
+</receipts>

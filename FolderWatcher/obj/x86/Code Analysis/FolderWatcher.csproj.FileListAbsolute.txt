@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\FolderWatcher\bin\x86\Code Analysis\FolderWatcher.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\FolderWatcher\obj\x86\Code Analysis\FolderWatcher.exe

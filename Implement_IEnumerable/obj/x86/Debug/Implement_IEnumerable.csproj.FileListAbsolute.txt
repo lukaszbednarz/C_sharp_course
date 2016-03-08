@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Implement_IEnumerable\bin\Debug\Implement_IEnumerable.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Implement_IEnumerable\bin\Debug\Implement_IEnumerable.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Implement_IEnumerable\obj\x86\Debug\Implement_IEnumerable.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Implement_IEnumerable\obj\x86\Debug\Implement_IEnumerable.pdb

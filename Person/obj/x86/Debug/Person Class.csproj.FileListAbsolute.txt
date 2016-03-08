@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Person\bin\Debug\Person.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Person\bin\Debug\Person.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Person\obj\x86\Debug\Person.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Person\obj\x86\Debug\Person.pdb

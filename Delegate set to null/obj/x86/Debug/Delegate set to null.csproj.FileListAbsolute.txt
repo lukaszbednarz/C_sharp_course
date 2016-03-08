@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate set to null\bin\Debug\Delegate set to null.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate set to null\bin\Debug\Delegate set to null.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate set to null\obj\x86\Debug\Delegate set to null.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate set to null\obj\x86\Debug\Delegate set to null.pdb

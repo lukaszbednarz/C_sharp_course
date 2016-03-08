@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Folder Info\bin\Debug\Folder Info.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Folder Info\bin\Debug\Folder Info.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Folder Info\obj\x86\Debug\Folder Info.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Folder Info\obj\x86\Debug\Folder Info.pdb

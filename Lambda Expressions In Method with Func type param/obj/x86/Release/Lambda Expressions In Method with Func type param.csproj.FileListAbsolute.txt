@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions In Method with Func type param\bin\Release\Lambda Expressions In Method with Func type param.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions In Method with Func type param\bin\Release\Lambda Expressions In Method with Func type param.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions In Method with Func type param\obj\x86\Release\Lambda Expressions In Method with Func type param.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions In Method with Func type param\obj\x86\Release\Lambda Expressions In Method with Func type param.pdb

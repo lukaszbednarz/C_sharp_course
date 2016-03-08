@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Basic delegate usage\bin\Debug\Basic delegate usage.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Basic delegate usage\bin\Debug\Basic delegate usage.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Basic delegate usage\obj\x86\Debug\Basic delegate usage.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Basic delegate usage\obj\x86\Debug\Basic delegate usage.pdb

@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Write and Call Methods\bin\Debug\Write and Call Methods.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Write and Call Methods\bin\Debug\Write and Call Methods.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Write and Call Methods\obj\x86\Debug\Write and Call Methods.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Write and Call Methods\obj\x86\Debug\Write and Call Methods.pdb

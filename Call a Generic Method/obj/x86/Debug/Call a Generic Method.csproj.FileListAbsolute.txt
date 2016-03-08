@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Call a Generic Method\bin\Debug\Call a Generic Method.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Call a Generic Method\bin\Debug\Call a Generic Method.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Call a Generic Method\obj\x86\Debug\Call a Generic Method.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Call a Generic Method\obj\x86\Debug\Call a Generic Method.pdb

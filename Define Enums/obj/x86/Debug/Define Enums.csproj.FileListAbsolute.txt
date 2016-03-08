@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Define Enums\bin\Debug\Define Enums.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Define Enums\bin\Debug\Define Enums.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Define Enums\obj\x86\Debug\Define Enums.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Define Enums\obj\x86\Debug\Define Enums.pdb

@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Agregation Operators\bin\Release\LINQ Agregation Operators.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Agregation Operators\bin\Release\LINQ Agregation Operators.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Agregation Operators\obj\x86\Release\LINQ Agregation Operators.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Agregation Operators\obj\x86\Release\LINQ Agregation Operators.pdb

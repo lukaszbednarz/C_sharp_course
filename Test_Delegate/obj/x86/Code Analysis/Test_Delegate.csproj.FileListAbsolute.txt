@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Test_Delegate\bin\x86\Code Analysis\Test_Delegate.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Test_Delegate\obj\x86\Code Analysis\Test_Delegate.exe

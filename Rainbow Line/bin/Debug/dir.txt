@@ -1,0 +1,72 @@
+Adobe Reader 9.1 MUI 9.1.0.MIF                                    1727
+aksdrvsetup.log                                                   46921
+bfsvc.exe                                                         71168
+blat.exe                                                          71680
+bootstat.dat                                                      67584
+Ckconfig.exe                                                      165888
+Ckrfresh.exe                                                      11776
+Crypkey.ini                                                       90
+debug.txt                                                         0
+DPINST.LOG                                                        50102
+DtcInstall.log                                                    2790
+Enterprise.xml                                                    53555
+error.log                                                         24836
+errord.log                                                        29084
+explorer.exe                                                      2870272
+FramePkg.exe                                                      5292497
+fveupdate.exe                                                     15360
+Gobi2000Version.dll                                               42496
+HelpPane.exe                                                      733696
+hh.exe                                                            16896
+HPMProp.INI                                                       0
+Installs.ini                                                      478
+ISMIF32.dll                                                       19824
+J2SE Runtime Environment 5.0 Update 11 1.5.0.110.MIF              1597
+KB2719615 64 1.0.0.MIF                                            1756
+McAfeeHip7_Install.log                                            747194
+MEMORY.DMP                                                        3281801148
+MemoryDebugApp.INI                                                38
+mib.bin                                                           43131
+msdfmap.ini                                                       1405
+msxml4-KB954430-enu.LOG                                           293274
+msxml4-KB973688-enu.LOG                                           290980
+myVPN 1.0.0.MIF                                                   1551
+notepad.exe                                                       193536
+ODBC.INI                                                          766
+ODBCINST.INI                                                      244
+PFRO.log                                                          77196
+PH MDB 1.0.0.MIF                                                  1552
+Qualcomm Application Fixes 1.2.0.MIF                              1781
+Qualcomm Application Fixes 1.2.1.MIF                              1781
+Qualcomm.bmp                                                      2359350
+regedit.exe                                                       398336
+SecuniaPackage.log                                                1792
+setupact.log                                                      73308
+setuperr.log                                                      170
+Setup_ck.dll                                                      18432
+Setup_ck.exe                                                      27648
+si.mif                                                            1789
+SlickEdit 2009 (14.0.0) 14.0.0.MIF                                1727
+SMSCFG.ini                                                        509
+smsts.ini                                                         51
+snp2uvc.ini                                                       15497
+snp2uvc.src                                                       13022
+snuvcdsm.exe                                                      27184
+splwow64.exe                                                      61952
+Starter.xml                                                       48201
+sttray64.exe                                                      487424
+system.ini                                                        219
+testapp.mif                                                       1741
+TSSysprep.log                                                     3479
+twain.dll                                                         94784
+twain_32.dll                                                      51200
+twunk_16.exe                                                      49680
+twunk_32.exe                                                      31232
+vbaddin.ini                                                       39
+vx86036.dat                                                       4
+win.ini                                                           2692
+WindowsShell.Manifest                                             749
+WindowsUpdate.log                                                 1090671
+winhlp32.exe                                                      9728
+WMSysPr9.prx                                                      316640
+write.exe                                                         10240

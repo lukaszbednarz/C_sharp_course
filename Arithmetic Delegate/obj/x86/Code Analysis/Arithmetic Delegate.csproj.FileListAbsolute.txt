@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Arithmetic Delegate\bin\x86\Code Analysis\Arithmetic Delegate.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Arithmetic Delegate\obj\x86\Code Analysis\Arithmetic Delegate.exe

@@ -1,0 +1,5 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsLibrary\bin\Debug\GpsLibrary.dll
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsLibrary\bin\Debug\GpsLibrary.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsLibrary\obj\Debug\GpsLibrary.dll
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsLibrary\obj\Debug\GpsLibrary.pdb

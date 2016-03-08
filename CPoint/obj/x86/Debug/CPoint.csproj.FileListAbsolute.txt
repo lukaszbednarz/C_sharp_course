@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\CPoint\bin\Debug\CPoint.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\CPoint\bin\Debug\CPoint.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\CPoint\obj\x86\Debug\CPoint.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\CPoint\obj\x86\Debug\CPoint.pdb

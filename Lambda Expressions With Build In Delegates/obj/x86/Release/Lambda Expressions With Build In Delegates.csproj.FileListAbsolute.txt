@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions With Build In Delegates\bin\Release\Lambda Expressions With Build In Delegates.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions With Build In Delegates\bin\Release\Lambda Expressions With Build In Delegates.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions With Build In Delegates\obj\x86\Release\Lambda Expressions With Build In Delegates.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Lambda Expressions With Build In Delegates\obj\x86\Release\Lambda Expressions With Build In Delegates.pdb

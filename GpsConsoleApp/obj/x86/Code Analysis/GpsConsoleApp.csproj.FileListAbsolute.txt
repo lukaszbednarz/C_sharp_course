@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\bin\x86\Code Analysis\GpsConsoleApp.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\bin\x86\Code Analysis\GpsLibrary.dll
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\obj\x86\Code Analysis\GpsConsoleApp.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\GpsConsoleApp\obj\x86\Code Analysis\GpsConsoleApp.csprojResolveAssemblyReference.cache

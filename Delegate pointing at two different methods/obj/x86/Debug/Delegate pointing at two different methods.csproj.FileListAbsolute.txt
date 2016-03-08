@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate pointing at two different methods\bin\Debug\Delegate pointing at two different methods.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate pointing at two different methods\bin\Debug\Delegate pointing at two different methods.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate pointing at two different methods\obj\x86\Debug\Delegate pointing at two different methods.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate pointing at two different methods\obj\x86\Debug\Delegate pointing at two different methods.pdb

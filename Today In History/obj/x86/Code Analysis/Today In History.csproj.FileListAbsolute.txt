@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Today In History\bin\x86\Code Analysis\Today In History.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Today In History\bin\x86\Code Analysis\TodayInHistoryLib.dll
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Today In History\obj\x86\Code Analysis\Today In History.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Today In History\obj\x86\Code Analysis\Today In History.csprojResolveAssemblyReference.cache

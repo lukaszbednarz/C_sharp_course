@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ConvertSalesReceiptsToXml\bin\Debug\ConvertSalesReceiptsToXml.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ConvertSalesReceiptsToXml\bin\Debug\ConvertSalesReceiptsToXml.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ConvertSalesReceiptsToXml\obj\x86\Debug\ConvertSalesReceiptsToXml.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ConvertSalesReceiptsToXml\obj\x86\Debug\ConvertSalesReceiptsToXml.pdb

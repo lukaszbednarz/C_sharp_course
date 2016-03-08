@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Bank Accounts\bin\x86\Code Analysis\Bank Accounts.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Bank Accounts\obj\x86\Code Analysis\Bank Accounts.exe

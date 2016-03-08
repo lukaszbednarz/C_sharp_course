@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Deffered Execution\bin\Release\LINQ Deffered Execution.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Deffered Execution\bin\Release\LINQ Deffered Execution.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Deffered Execution\obj\x86\Release\LINQ Deffered Execution.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\LINQ Deffered Execution\obj\x86\Release\LINQ Deffered Execution.pdb

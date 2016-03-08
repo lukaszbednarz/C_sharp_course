@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Handling Exeptions\bin\x86\Code Analysis\Handling Exeptions.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Handling Exeptions\obj\x86\Code Analysis\Handling Exeptions.exe

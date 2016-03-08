@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate unsubscription\bin\Debug\Delegate unsubscription.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate unsubscription\bin\Debug\Delegate unsubscription.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate unsubscription\obj\x86\Debug\Delegate unsubscription.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate unsubscription\obj\x86\Debug\Delegate unsubscription.pdb

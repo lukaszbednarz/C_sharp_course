@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\SPoint\bin\x86\Code Analysis\SPoint.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\SPoint\obj\x86\Code Analysis\SPoint.exe

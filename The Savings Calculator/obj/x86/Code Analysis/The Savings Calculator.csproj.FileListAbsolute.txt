@@ -1,0 +1,5 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\The Savings Calculator\bin\x86\Code Analysis\The Savings Calculator.exe.config
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\The Savings Calculator\bin\x86\Code Analysis\The Savings Calculator.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\The Savings Calculator\bin\x86\Code Analysis\SavingsLib.dll
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\The Savings Calculator\obj\x86\Code Analysis\The Savings Calculator.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\The Savings Calculator\obj\x86\Code Analysis\The Savings Calculator.csprojResolveAssemblyReference.cache

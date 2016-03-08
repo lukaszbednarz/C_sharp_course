@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ClassLibrary\bin\Code Analysis\ClassLibrary.dll
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ClassLibrary\obj\Code Analysis\ClassLibrary.dll

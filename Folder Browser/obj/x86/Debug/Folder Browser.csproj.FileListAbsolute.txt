@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Folder Browser\bin\Debug\Folder Browser.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Folder Browser\bin\Debug\Folder Browser.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Folder Browser\obj\x86\Debug\Folder Browser.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Folder Browser\obj\x86\Debug\Folder Browser.pdb

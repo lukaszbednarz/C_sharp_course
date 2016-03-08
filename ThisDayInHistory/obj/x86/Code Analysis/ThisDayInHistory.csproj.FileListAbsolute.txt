@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ThisDayInHistory\bin\x86\Code Analysis\ThisDayInHistory.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ThisDayInHistory\obj\x86\Code Analysis\ThisDayInHistory.exe

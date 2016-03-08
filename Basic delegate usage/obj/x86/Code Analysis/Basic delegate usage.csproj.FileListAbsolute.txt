@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Basic delegate usage\bin\x86\Code Analysis\Basic delegate usage.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Basic delegate usage\obj\x86\Code Analysis\Basic delegate usage.exe

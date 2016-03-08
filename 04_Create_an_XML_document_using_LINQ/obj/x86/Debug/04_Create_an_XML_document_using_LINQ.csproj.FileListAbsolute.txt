@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\04_Create_an_XML_document_using_LINQ\bin\Debug\04_Create_an_XML_document_using_LINQ.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\04_Create_an_XML_document_using_LINQ\bin\Debug\04_Create_an_XML_document_using_LINQ.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\04_Create_an_XML_document_using_LINQ\obj\x86\Debug\04_Create_an_XML_document_using_LINQ.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\04_Create_an_XML_document_using_LINQ\obj\x86\Debug\04_Create_an_XML_document_using_LINQ.pdb

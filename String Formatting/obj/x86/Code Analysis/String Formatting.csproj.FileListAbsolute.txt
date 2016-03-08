@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\String Formatting\bin\x86\Code Analysis\String Formatting.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\String Formatting\obj\x86\Code Analysis\String Formatting.exe

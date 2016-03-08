@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Define Enums\bin\x86\Code Analysis\Define Enums.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Define Enums\obj\x86\Code Analysis\Define Enums.exe

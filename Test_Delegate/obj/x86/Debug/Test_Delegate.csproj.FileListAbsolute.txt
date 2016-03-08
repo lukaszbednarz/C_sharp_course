@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Test_Delegate\bin\Debug\Test_Delegate.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Test_Delegate\bin\Debug\Test_Delegate.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Test_Delegate\obj\x86\Debug\Test_Delegate.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Test_Delegate\obj\x86\Debug\Test_Delegate.pdb

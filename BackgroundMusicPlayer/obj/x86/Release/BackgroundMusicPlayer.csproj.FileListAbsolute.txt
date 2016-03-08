@@ -1,0 +1,6 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\BackgroundMusicPlayer\bin\Release\BackgroundMusicPlayer.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\BackgroundMusicPlayer\bin\Release\BackgroundMusicPlayer.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\BackgroundMusicPlayer\bin\Release\BackgroundMusicLib.dll
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\BackgroundMusicPlayer\obj\x86\Release\BackgroundMusicPlayer.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\BackgroundMusicPlayer\obj\x86\Release\BackgroundMusicPlayer.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\BackgroundMusicPlayer\obj\x86\Release\BackgroundMusicPlayer.csprojResolveAssemblyReference.cache

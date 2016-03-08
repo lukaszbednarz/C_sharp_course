@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\UsingIterators\bin\Release\UsingIterators.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\UsingIterators\bin\Release\UsingIterators.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\UsingIterators\obj\x86\Release\UsingIterators.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\UsingIterators\obj\x86\Release\UsingIterators.pdb

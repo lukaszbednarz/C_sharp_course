@@ -1,0 +1,4 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Apply Generic Constraints\bin\Debug\Apply Generic Constraints.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Apply Generic Constraints\bin\Debug\Apply Generic Constraints.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Apply Generic Constraints\obj\x86\Debug\Apply Generic Constraints.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Apply Generic Constraints\obj\x86\Debug\Apply Generic Constraints.pdb

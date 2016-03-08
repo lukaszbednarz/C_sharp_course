@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\03_Use_XElement_to_create_XML_fragments\bin\Debug\03_Use_XElement_to_create_XML_fragments.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\03_Use_XElement_to_create_XML_fragments\bin\Debug\03_Use_XElement_to_create_XML_fragments.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\03_Use_XElement_to_create_XML_fragments\obj\x86\Debug\03_Use_XElement_to_create_XML_fragments.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\03_Use_XElement_to_create_XML_fragments\obj\x86\Debug\03_Use_XElement_to_create_XML_fragments.pdb

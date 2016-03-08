@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Convert Code to use EventHandler_T_\bin\x86\Code Analysis\Convert Code to use EventHandler_T_.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Convert Code to use EventHandler_T_\obj\x86\Code Analysis\Convert Code to use EventHandler_T_.exe

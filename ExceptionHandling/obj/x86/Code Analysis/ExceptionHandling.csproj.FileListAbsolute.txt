@@ -1,0 +1,10 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\x86\Code Analysis\Images\Firestorm.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\x86\Code Analysis\Images\TextFile.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\x86\Code Analysis\Images\UltraDeep.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\x86\Code Analysis\Images\PhilcUK.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\x86\Code Analysis\Images\HST-SM4.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\x86\Code Analysis\Images\Horsehead.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\x86\Code Analysis\Images\Hubble.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\x86\Code Analysis\Images\Tarantula.jpg
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\bin\x86\Code Analysis\ExceptionHandling.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\ExceptionHandling\obj\x86\Code Analysis\ExceptionHandling.exe

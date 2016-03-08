@@ -1,0 +1,7 @@
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Executable2\bin\Debug\Executable2.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Executable2\bin\Debug\Executable2.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Executable2\bin\Debug\ClassLibrary.dll
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Executable2\bin\Debug\ClassLibrary.pdb
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Executable2\obj\x86\Debug\Executable2.exe
+C:\Users\lbednarz\documents\visual studio 2010\Projects\Cs Learning Line\Executable2\obj\x86\Debug\Executable2.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Executable2\obj\x86\Debug\Executable2.csprojResolveAssemblyReference.cache

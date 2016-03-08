@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Manage Disposable Resources\bin\Release\TestYourself.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Manage Disposable Resources\bin\Release\TestYourself.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Manage Disposable Resources\obj\x86\Release\TestYourself.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Manage Disposable Resources\obj\x86\Release\TestYourself.pdb

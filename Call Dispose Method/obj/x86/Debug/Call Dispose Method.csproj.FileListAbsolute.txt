@@ -1,0 +1,4 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Call Dispose Method\bin\Debug\Call Dispose Method.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Call Dispose Method\bin\Debug\Call Dispose Method.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Call Dispose Method\obj\x86\Debug\Call Dispose Method.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Call Dispose Method\obj\x86\Debug\Call Dispose Method.pdb

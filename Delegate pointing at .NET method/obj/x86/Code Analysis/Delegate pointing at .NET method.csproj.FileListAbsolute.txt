@@ -1,0 +1,2 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate pointing at .NET method\bin\x86\Code Analysis\Delegate_pointing_at.NET_method.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\Delegate pointing at .NET method\obj\x86\Code Analysis\Delegate_pointing_at.NET_method.exe

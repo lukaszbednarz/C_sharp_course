@@ -1,0 +1,5 @@
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\moviereader\bin\Release\movies.txt
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\moviereader\bin\Release\MovieReader.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\moviereader\bin\Release\MovieReader.pdb
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\moviereader\obj\x86\Release\MovieReader.exe
+C:\Users\lbednarz\Documents\Visual Studio 2010\Projects\Cs Learning Line\moviereader\obj\x86\Release\MovieReader.pdb
